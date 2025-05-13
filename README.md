@@ -1,57 +1,76 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Sailesh</h1>
-<h3 align="center">🚀 Aspiring AI & ML Engineer | Python Learner | 1st-Year Engineering Student</h3>
-
----
-
-### 🌱 About Me
-
-- 🎓 1st Year Undergrad in **Artificial Intelligence & Machine Learning**
-- 📚 Currently learning **Python**, **Math for AI**, and **Foundations of Data Science**
-- 💡 Interested in **Computer Vision**, **NLP**, and **Intelligent Systems**
-- 🌐 Planning to build my **personal portfolio** and start **mini-projects**
-- 🤝 Open to **learning collaborations** and **beginner-friendly contributions**
-
----
-
-### 🛠️ Languages & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📈 GitHub Stats
+<!-- Header -->
+<h1 align="center">✨ Hey there, I'm Sailesh! 👋</h1>
+<h3 align="center">🚀 AI & ML Undergraduate | 🌱 Lifelong Learner | 🧠 Future AI Engineer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaileshDas&show_icons=true&theme=react" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=SaileshDas&theme=react" width="48%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Exploring+the+World+of+AI+%26+ML;Python+%7C+C+%7C+HTML+%7C+CSS+learner;Open+to+collaboration+and+projects+!;Let's+grow+together+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🎯 Goals for 2025
+## 🌟 About Me
 
-- ✅ Build and host a portfolio website
-- ✅ Start 2+ small Python-based ML projects
-- ✅ Contribute to at least 1 open-source repository
-- ✅ Stay consistent with learning & sharing
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saileshdas2006@gmail.com)
+🔭 I’m currently a **1st-year undergrad in AI & ML**  
+💻 Learning Python, C, HTML, and CSS  
+📊 Focused on building strong fundamentals in math and programming  
+🤝 Eager to **collaborate on beginner projects** and learn by doing  
+🎯 Long-term goal: Build real-world AI solutions and contribute to open-source
 
 ---
+
+## 🚀 Languages & Tools
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=radical" width="48%"/>
 </p>
 
 <p align="center">
-  <em>"Learning never exhausts the mind – Leonardo da Vinci"</em>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR-GITHUB-USERNAME&theme=react-dark&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## 🧠 2025 Goals
+
+✅ Build and deploy a personal portfolio website  
+✅ Create at least 2 beginner-friendly AI/ML mini-projects  
+✅ Contribute to an open-source project  
+✅ Start a blog to document my learning journey
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
+</p>
+
+<p align="center">
+  <b><i>“Success is the sum of small efforts, repeated day in and day out.”</i></b>
 </p>
