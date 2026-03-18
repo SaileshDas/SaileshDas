@@ -45,7 +45,7 @@
 
 ---
 
-## 🧠 2025 Goals
+## 🧠 2026 Goals
 
 ✅ Build and deploy a personal portfolio website  
 ✅ Create at least 2 beginner-friendly AI/ML mini-projects  
