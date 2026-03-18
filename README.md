@@ -1,44 +1,54 @@
-# SaileshDas
+# Hi there, I'm Sailesh Das! 👋
 
-This repository contains projects and explorations by SaileshDas.
+## 🙋‍♂️ About Me
+I'm a passionate developer with a love for technology and solving problems. Always eager to learn and grow in my career.
 
-## Installation
+## 💻 Tech Stack
+### Languages:
+- JavaScript
+- Python
+- Java
 
-To install this project, clone the repo:
+### Databases:
+- MySQL
+- MongoDB
 
-```
-git clone https://github.com/SaileshDas/SaileshDas.git
-```
+### Tools:
+- Git
+- Docker
+- VS Code
 
-## Usage
+## 📈 GitHub Stats
+![SaileshDas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaileshDas&show_icons=true&theme=radical)
 
-Once cloned, navigate into the project directory and run:
+## 🌟 Activity Graph
+![SaileshDas's Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaileshDas&theme=redical)
 
-```
-cd SaileshDas
-```
+## 🔥 Streak Stats
+![SaileshDas's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SaileshDas&theme=radical)
 
-Followed by executing the project:
+## 🎯 2026 Goals
+| Goals                       | Status    |
+|-----------------------------|-----------|
+| Master React                | In-Progress |
+| Contribute to Open Source   | Planned   |
+| Publish a tech blog         | Completed |
+| Build a personal project     | In-Progress |
 
-```
-<your-command-here>
-```
+## 🤝 Connect with Me
+- 📧 Email: [your_email@example.com](mailto:your_email@example.com)
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
 
-## Contributing
-
-We welcome contributions! Please feel free to submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License.
+## 📊 Profile View Counter
+![](https://komarev.com/ghpvc/?username=SaileshDas)  
 
 ---
 
-### Stats
-
-- **Username**: SaileshDas
-- **Total Repositories**: 5
-- **Followers**: 100
-- **Following**: 75
-
-> Updated on 2026-03-18 16:43:53 UTC
+<style>
+  h1, h2, h3 { text-align: center; }
+  table { margin: auto; border-collapse: collapse; width: 80%; }
+  th, td { border: 1px solid #ddd; padding: 8px; text-align: center; }
+  tr:nth-child(even) { background-color: #f2f2f2; }
+  tr:hover { background-color: #ddd; }
+  .divider { margin: 20px 0; }
+</style>
