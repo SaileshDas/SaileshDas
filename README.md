@@ -1,54 +1,78 @@
-# Hi there, I'm Sailesh Das! 👋
+<!-- Header -->
+<h1 align="center">✨ Hey there, I'm Sailesh! 👋</h1>
+<h3 align="center">🚀 AI & ML Undergraduate | 🌱 Lifelong Learner | 🧠 Future AI Engineer</h3>
 
-## 🙋‍♂️ About Me
-I'm a passionate developer with a love for technology and solving problems. Always eager to learn and grow in my career.
-
-## 💻 Tech Stack
-### Languages:
-- JavaScript
-- Python
-- Java
-
-### Databases:
-- MySQL
-- MongoDB
-
-### Tools:
-- Git
-- Docker
-- VS Code
-
-## 📈 GitHub Stats
-![SaileshDas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaileshDas&show_icons=true&theme=radical)
-
-## 🌟 Activity Graph
-![SaileshDas's Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaileshDas&theme=redical)
-
-## 🔥 Streak Stats
-![SaileshDas's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SaileshDas&theme=radical)
-
-## 🎯 2026 Goals
-| Goals                       | Status    |
-|-----------------------------|-----------|
-| Master React                | In-Progress |
-| Contribute to Open Source   | Planned   |
-| Publish a tech blog         | Completed |
-| Build a personal project     | In-Progress |
-
-## 🤝 Connect with Me
-- 📧 Email: [your_email@example.com](mailto:your_email@example.com)
-- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-
-## 📊 Profile View Counter
-![](https://komarev.com/ghpvc/?username=SaileshDas)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Exploring+the+World+of+AI+%26+ML;Python+%7C+C+%7C+HTML+%7C+CSS+learner;Open+to+collaboration+and+projects+!;Let's+grow+together+%F0%9F%8C%B1" alt="Typing SVG" />
+</p>
 
 ---
 
-<style>
-  h1, h2, h3 { text-align: center; }
-  table { margin: auto; border-collapse: collapse; width: 80%; }
-  th, td { border: 1px solid #ddd; padding: 8px; text-align: center; }
-  tr:nth-child(even) { background-color: #f2f2f2; }
-  tr:hover { background-color: #ddd; }
-  .divider { margin: 20px 0; }
-</style>
+## 🌟 About Me
+
+🔭 I'm currently a **2nd-year undergrad in AI & ML**  
+💻 Learning Python, C, HTML, and CSS  
+📊 Focused on building strong fundamentals in math and programming  
+🤝 Eager to **collaborate on beginner projects** and learn by doing  
+🎯 Long-term goal: Build real-world AI solutions and contribute to open-source
+
+---
+
+## 🚀 Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sailesh Das&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=Sailesh Das&theme=radical" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sailesh Das&theme=react-dark&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## 🧠 2026 Goals
+
+✅ Build and deploy a personal portfolio website  
+✅ Create at least 2 beginner-friendly AI/ML mini-projects  
+✅ Contribute to an open-source project  
+✅ Start a blog to document my learning journey
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:sailshdas2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sailesh-das-2211a8366/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
+</p>
+
+<p align="center">
+  <b><i>"Success is the sum of small efforts, repeated day in and day out."</i></b>
+</p>
