@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-🔭 I’m currently a **1st-year undergrad in AI & ML**  
+🔭 I'm currently a **2nd-year undergrad in AI & ML**  
 💻 Learning Python, C, HTML, and CSS  
 📊 Focused on building strong fundamentals in math and programming  
 🤝 Eager to **collaborate on beginner projects** and learn by doing  
@@ -23,8 +23,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -72,5 +74,5 @@
 </p>
 
 <p align="center">
-  <b><i>“Success is the sum of small efforts, repeated day in and day out.”</i></b>
+  <b><i>"Success is the sum of small efforts, repeated day in and day out."</i></b>
 </p>
