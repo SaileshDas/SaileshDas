@@ -37,12 +37,12 @@
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sailesh Das&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=Sailesh Das&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SaileshDas&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=SaileshDas&theme=radical" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sailesh Das&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SaileshDas&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
 ---
