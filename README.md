@@ -41,9 +41,6 @@
   <img src="https://streak-stats.demolab.com?user=SaileshDas&theme=radical" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SaileshDas&theme=react-dark&hide_border=true" width="100%"/>
-</p>
 
 ---
 
