@@ -11,9 +11,8 @@
 ## 🌟 About Me
 
 🔭 I'm currently a **2nd-year undergrad in AI & ML**  
-💻 Learning Python, C, HTML, and CSS  
 📊 Focused on building strong fundamentals in math and programming  
-🤝 Eager to **collaborate on beginner projects** and learn by doing  
+🤝 Eager to **collaborate on real-world projects** and learn by doing  
 🎯 Long-term goal: Build real-world AI solutions and contribute to open-source
 
 ---
