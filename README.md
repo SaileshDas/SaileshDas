@@ -33,21 +33,11 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaileshDas&theme=radical" width="48%"/>
-</p>
-
-
----
-
 ## 🧠 2026 Goals
 
 ✅ Build and deploy a personal portfolio website  
 ✅ Create at least 2 beginner-friendly AI/ML mini-projects  
 ✅ Contribute to an open-source project  
-✅ Start a blog to document my learning journey
 
 ---
 
