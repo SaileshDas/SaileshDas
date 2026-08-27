@@ -1,9 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hey,%20I'm%20Sailesh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Undergrad%20%7C%20Building%20real%20things%2C%20one%20repo%20at%20a%20time&descAlignY=58&descSize=18" width="100%"/>
-
+  <img src="https://i.ibb.co/57gr3SJ/cozy-workspace.gif" alt="cozy-workspace" width="75%" style="border-radius: 10px;">
 </div>
-
 <br/>
 
 <p align="center">
@@ -14,11 +11,10 @@
 
 ## 🌟 About me
 
-- 🔭 3rd-year undergrad in **AI & ML**, based in Bengaluru, India
+- 🔭 3rd-year undergrad in **AI & ML**
 - 📊 Focused on building strong fundamentals in math, programming, and applied AI
 - 🤝 Currently building full-stack apps that combine web development with practical AI features (LLMs, voice, vision)
 - 🎯 Long-term goal: build real-world AI products and contribute meaningfully to open source
-- ⚡ Fun fact: I'd rather ship a rough working version than sit on a perfect plan
 
 <br/>
 
@@ -32,49 +28,52 @@
 
 <br/>
 
-## 🚀 Featured projects
+## 🚀 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/SaileshDas/Cultura-chatbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaileshDas&repo=Cultura-chatbot&theme=tokyonight&hide_border=true" width="100%"/>
+      <h3>🐦 REPCODE</h3>
+      <p>A project-memory system for capturing technical decisions and querying project knowledge with AI.</p>
+      <p><b>Stack:</b> Next.js · TypeScript · Tailwind · Groq · Membrain</p>
+      <a href="https://github.com/Vatsalya1111/repcode">
+        <img src="https://img.shields.io/badge/-Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/SaileshDas/Eco-cycle-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaileshDas&repo=Eco-cycle-website&theme=tokyonight&hide_border=true" width="100%"/>
+      <h3>🪷 Cultura Chatbot</h3>
+      <p>An AI cultural guide and travel companion focused on Karnataka.</p>
+      <p><b>Focus:</b> AI · Travel · Culture · Web</p>
+      <a href="https://github.com/SaileshDas/Cultura-chatbot">
+        <img src="https://img.shields.io/badge/-Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/SaileshDas/Attend-O-meter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaileshDas&repo=Attend-O-meter&theme=tokyonight&hide_border=true" width="100%"/>
+      <h3>🌾 CropSense</h3>
+      <p>A project exploring technology-driven approaches for sustainable agriculture.</p>
+      <p><b>Status:</b> In progress</p>
+      <a href="https://github.com/Vatsalya1111/CropSense">
+        <img src="https://img.shields.io/badge/-Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Vatsalya1111/repcode">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsalya1111&repo=repcode&theme=tokyonight&hide_border=true" width="100%"/>
+      <h3>♻️ EcoCycle</h3>
+      <p>A team project exploring e-waste collection and recycling through a web platform.</p>
+      <a href="https://github.com/SaileshDas/Eco-cycle-website">
+        <img src="https://img.shields.io/badge/-Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
 </table>
+<br/>
 
 <br/>
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaileshDas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaileshDas&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaileshDas&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<br/>
 
 ## 🧠 2026 goals
 
