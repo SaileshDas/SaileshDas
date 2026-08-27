@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/57gr3SJ/cozy-workspace.gif" alt="cozy-workspace" width="75%" style="border-radius: 10px;">
+  <img src="https://i.postimg.cc/zDd35WPK/cozy-workspace.gif" alt="cozy-workspace" width="75%" style="border-radius: 10px;">
 </div>
 <br/>
 
