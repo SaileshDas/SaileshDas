@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-🔭 I'm currently a **2nd-year undergrad in AI & ML**  
+🔭 I'm currently a **3rd-year undergrad in AI & ML**  
 📊 Focused on building strong fundamentals in math and programming  
 🤝 Eager to **collaborate on real-world projects** and learn by doing  
 🎯 Long-term goal: Build real-world AI solutions and contribute to open-source
