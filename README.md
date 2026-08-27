@@ -7,8 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=3rd-year+AI+%26+ML+Undergrad;Building+full-stack+%2B+AI-powered+apps;Django+%7C+React+%7C+Next.js+%7C+LLMs;Always+shipping+something+new" alt="Typing SVG" />
 </p>
 
-<br/>
-
 ## 🌟 About me
 
 - 🔭 3rd-year undergrad in **AI & ML**
