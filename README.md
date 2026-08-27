@@ -37,7 +37,7 @@
       <a href="https://github.com/Vatsalya1111/repcode">
         <img src="https://img.shields.io/badge/-Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      <a href="#">
+      <a href="https://repcode-five.vercel.app/">
         <img src="https://img.shields.io/badge/-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
     </td>
@@ -79,8 +79,6 @@
 - [x] Create at least 2 beginner-friendly AI/ML mini-projects
 - [ ] Contribute to an open-source project beyond a single PR
 - [ ] Ship one project with a real, active user base
-
-<br/>
 
 ## 🌐 Let's connect
 
